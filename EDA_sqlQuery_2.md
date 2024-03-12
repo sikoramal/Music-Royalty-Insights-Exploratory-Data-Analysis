@@ -2,8 +2,8 @@
 **Music Royalty Insights** </br>
 **Author**: Mal Sikora <br />
 
-## Analysis 1: 
-sqlQuery 1 – CHECKING DATA TYPES <br>
+## Analysis 2: 
+sqlQuery 2 – CHECKING FOR NULL VALUES AND EXPLORE UNIQUENESS & KEYS  <br>
 CHECKING FOR NULL VALUES AND EXPLORE UNIQUENESS & KEYS
 
 ### Query

@@ -16,12 +16,12 @@ Used: SQL Server (SSMS) </br>
 SQL language: T-SQL </br>
 
 **Exploratory Data Analysis:**
-* [sqlQuery 1 – CHECKING DATA TYPES](/EDA_sqlQuery_1.md)<br>
-* [sqlQuery 2 – CHECKING FOR NULL VALUES AND EXPLORE UNIQUENESS & KEYS](EDA_sqlQuery_2.md) <br>
-* [sqlQuery 3 – EXPLORATION: royalty_sales](EDA_sqlQuery_3.md)<br>
-* [sqlQuery 4 – EXPLORATION: albums](EDA_sqlQuery_4.md) <br>
-* [sqlQuery 5 – EXPLORATION: artists & songs](EDA_sqlQuery_5.md) <br>
-* [sqlQuery 6 – FULL STACK](EDA_sqlQuery_6.md)
+* [sqlQuery 1 – CHECKING DATA TYPES](/EDA/sqlQuery_1.md)<br>
+* [sqlQuery 2 – CHECKING FOR NULL VALUES AND EXPLORE UNIQUENESS & KEYS](EDA/sqlQuery_2.md) <br>
+* [sqlQuery 3 – EXPLORATION: royalty_sales](EDA/sqlQuery_3.md)<br>
+* [sqlQuery 4 – EXPLORATION: albums](EDA/sqlQuery_4.md) <br>
+* [sqlQuery 5 – EXPLORATION: artists & songs](EDA/sqlQuery_5.md) <br>
+* [sqlQuery 6 – FULL STACK](EDA/sqlQuery_6.md)
    <br>
 ## Datasets files
 This case study uses: 

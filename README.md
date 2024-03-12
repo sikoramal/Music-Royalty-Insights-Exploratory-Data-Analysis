@@ -9,13 +9,20 @@ Thank you 💙
 **LinkedIn**: https://www.linkedin.com/in/mal-sikora/  <br />
 
 ## Introduction
-A SQL analysis of examplary Music Royalty database. </br>
+An examination of a Music Royalty database through SQL analysis. </br>
 
 ℹ️ **_Note_** </br>
 Used: SQL Server (SSMS) </br>
 SQL language: T-SQL </br>
-* [Exploratory Data Analysis](./EDA.md)
 
+**Exploratory Data Analysis:**
+* [sqlQuery 1 – CHECKING DATA TYPES](/EDA_sqlQuery_1.md)<br>
+* [sqlQuery 2 – CHECKING FOR NULL VALUES AND EXPLORE UNIQUENESS & KEYS](EDA_sqlQuery_2.md) <br>
+* [sqlQuery 3 – EXPLORATION: royalty_sales](EDA_sqlQuery_3.md)<br>
+* [sqlQuery 4 – EXPLORATION: albums](EDA_sqlQuery_4.md) <br>
+* [sqlQuery 5 – EXPLORATION: artists & songs](EDA_sqlQuery_5.md) <br>
+* [sqlQuery 6 – FULL STACK](EDA_sqlQuery_6.md)
+   <br>
 ## Datasets files
 This case study uses: 
 
@@ -65,13 +72,6 @@ This case study uses:
 | zip_code      | nvarchar(50)  |            | not null |
 
 <br>
-sqlQuery 1 – CHECKING DATA TYPES<br>
-sqlQuery 2 – CHECKING FOR NULL VALUES AND EXPLORE UNIQUENESS & KEYS <br>
-sqlQuery 3 – EXPLORATION: royalty_sales<br>
-sqlQuery 4 – EXPLORATION: albums <br>
-sqlQuery 5 – EXPLORATION: artists & songs <br>
-sqlQuery 6 – FULL STACK <br><br>
-
 
 ## Exploratory Data Analysis (EDA)
 1.	Check Data Types <br>

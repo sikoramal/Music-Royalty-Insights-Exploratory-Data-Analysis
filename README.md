@@ -9,7 +9,11 @@ Thank you 💙
 **LinkedIn**: https://www.linkedin.com/in/mal-sikora/  <br />
 
 ## Introduction
+
 An examination of a Music Royalty database through SQL analysis. </br>
+
+When there is no defined objective, you gotta get creative. <br>
+One question leads to another. With this database, it is easy to get lost in neverending analysis. Yet, from the business perspective, it is important to evaluate which section of the data brings the most insight into revenue. With that in mind, I prepare this exploratory data analysis to answer the most crucial business question for the music distribution company - which music generates the most revenue? <br>
 
 ℹ️ **_Note_** </br>
 Used: SQL Server (SSMS) </br>
@@ -74,11 +78,12 @@ This case study uses:
 <br>
 
 ## Exploratory Data Analysis (EDA)
+
 1.	Check Data Types <br>
-•	Examining if data types in each column is appropriate and consistent with data they store. <br>
+•	Examining if data types in each column are appropriate and consistent with the data they store. <br>
 
 2.	Checking for Null Values and Explore Uniqueness & Keys<br>
-•	Examining each table for null values, especially in crucial columns. Deciding whether nulls are allowed and handle them appropriately.<br>
+•	Examining each table for null values, especially in crucial columns. Deciding whether nulls are allowed and handling them appropriately.<br>
 •	Understand the uniqueness of values in key columns like song_id, album_id, and others. Ensure the uniqueness constraints are met.<br>
 
 3.	Distribution of Quantitative Data<br>
